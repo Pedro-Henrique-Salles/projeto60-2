@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+}
+#link{
+    list-style:none;
+}
+#menu{
+    text-align:none;
+}
+html{
+    background-color:orange;
+}
+.link{
+    float:left;
+    margin:10px;
+}
+#imgcardapio{
+    width:800px;
+}
+#imgpizza{
+    width:600px;
+}
+#imghamburgue{
+    width:600px;
+}
+#imgpastel{
+    width:600px;
+}
